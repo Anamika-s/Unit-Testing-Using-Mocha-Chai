@@ -1,0 +1,15 @@
+{
+  "name": "mochachai",
+  "version": "1.0.0",
+  "description": "this is for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.1"
+  }
+}
